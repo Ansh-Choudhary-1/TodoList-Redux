@@ -1,6 +1,7 @@
-# React + Vite
+# Todolist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a TodoList made with Redux-Toolkit having the feature to add and remove 
+Todo items.
 
 Currently, two official plugins are available:
 
